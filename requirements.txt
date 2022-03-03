@@ -1,0 +1,4 @@
+requests
+gql
+requests_toolbelt
+boto3
